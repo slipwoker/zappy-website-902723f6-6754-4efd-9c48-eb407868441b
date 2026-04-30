@@ -1,47 +1,63 @@
-# Business — Generative Engine Optimization Map
+# גיא אבני פסיכותרפיסט דינאמי — Generative Engine Optimization Map
+
+> A dynamic psychotherapist and lecturer who combines therapeutic practice with public speaking and education. The brand likely bridges the clinical and academic worlds, offering both personal therapy services and professional lectures or workshops in the field of psychology and mental health.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://guyavnipsychotherapistdynamic.zappy5.app
 גיא אבני מציע פסיכותרפיה דינאמית למתבגרים ומבוגרים, המשלבת עומק טיפולי עם ידע אקדמי מתקדם. גלו כיצד טיפול רגשי מקצועי יכול לפתוח דלתות חדשות בחייכם.
 
 ### טיפול והרצאות
-https://example.com/therapy-lectures
+https://guyavnipsychotherapistdynamic.zappy5.app/therapy-lectures
 מחפשים מטפל רגשי מנוסה או הרצאות מרתקות על פסיכיאטריה ובריאות הנפש? גיא אבני מביא ידע קליני ועומק אנושי לכל במה וכל חדר טיפולים. הצטרפו עכשיו.
 
 ### אודות
-https://example.com/about
+https://guyavnipsychotherapistdynamic.zappy5.app/about
 גיא אבני הוא פסיכותרפיסט דינאמי עם ניסיון עשיר בטיפול ובהוראה. גלו את הדרך המקצועית, הגישה הטיפולית הייחודית, והחזון שמניע כל מפגש ומרצה.
 
 ### צור קשר
-https://example.com/contact
+https://guyavnipsychotherapistdynamic.zappy5.app/contact
 רוצים לקבוע פגישת היכרות עם מטפל רגשי מוביל או להזמין הרצאה מקצועית? צרו קשר עם גיא אבני עוד היום ותנו לתהליך הטיפולי להתחיל בצעד אחד פשוט.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://guyavnipsychotherapistdynamic.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://guyavnipsychotherapistdynamic.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://guyavnipsychotherapistdynamic.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About גיא אבני פסיכותרפיסט דינאמי
+A dynamic psychotherapist and lecturer who combines therapeutic practice with public speaking and education. The brand likely bridges the clinical and academic worlds, offering both personal therapy services and professional lectures or workshops in the field of psychology and mental health.
+
+## Services/Products
+- פסיכותרפיה דינאמית
+- הרצאות
+
+## Target Audience
+- הורים למתבגרים
+- אנשים במעבר אישי
+- אנשים אשר חווים תקיעות, משברים
+
+## Industry
+בריאות נפשית וחינוך
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://guyavnipsychotherapistdynamic.zappy5.app/sitemap.xml
+- **Robots.txt**: https://guyavnipsychotherapistdynamic.zappy5.app/robots.txt
