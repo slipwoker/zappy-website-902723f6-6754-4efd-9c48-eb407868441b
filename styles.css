@@ -2177,7 +2177,6 @@ html[lang="ar"] .nav-cta-btn {
 main { margin-top: 0 !important; padding-top: 0 !important; }
 
 
-/* Footer Styles */
 .site-footer {
   --primary: #3D7A6A;
   --secondary: #6A9E7F;
@@ -2189,13 +2188,13 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   --text-muted: #3D7A6A;
   --border-light: #7b9081;
   --border-dark: #6A9E7F;
-
-  background-color: #2A1A27;
+  background-color: #1E3D32 !important;
   color: var(--text-light);
   font-family: 'Rubik', sans-serif;
   direction: rtl;
   position: relative;
   overflow: hidden;
+  background: #1E3D32 !important;
 }
 
 .site-footer::before {
@@ -8480,6 +8479,27 @@ body.accessibility-widget-visible ._access-menu {
 .contact-faq-section {
   background: var(--surface-color) !important;
   background-image: none !important;
+}
+
+html body .site-footer,
+html body footer.site-footer {
+  background: #1E3D32 !important;
+  background-color: #1E3D32 !important;
+  color: var(--text-light) !important;
+}
+
+html body .site-footer p,
+html body .site-footer span,
+html body .site-footer li,
+html body .site-footer a,
+html body .site-footer h2,
+html body .site-footer h3,
+html body .site-footer h4,
+html body .site-footer cite,
+html body .site-footer .footer-tagline,
+html body .site-footer .footer-copyright,
+html body .site-footer .zappy-attribution {
+  color: var(--text-light) !important;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
