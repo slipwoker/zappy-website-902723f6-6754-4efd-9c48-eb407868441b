@@ -5,33 +5,33 @@
 ## Pages
 
 ### בית
-https://guyavnipsychotherapistdynamic.zappy5.app
+https://guyavni-therapist.co.il
 גיא אבני מציע פסיכותרפיה דינאמית למתבגרים ומבוגרים, המשלבת עומק טיפולי עם ידע אקדמי מתקדם. גלו כיצד טיפול רגשי מקצועי יכול לפתוח דלתות חדשות בחייכם.
 
 ### טיפול והרצאות
-https://guyavnipsychotherapistdynamic.zappy5.app/therapy-lectures
+https://guyavni-therapist.co.il/therapy-lectures
 מחפשים מטפל רגשי מנוסה או הרצאות מרתקות על פסיכיאטריה ובריאות הנפש? גיא אבני מביא ידע קליני ועומק אנושי לכל במה וכל חדר טיפולים. הצטרפו עכשיו.
 
 ### אודות
-https://guyavnipsychotherapistdynamic.zappy5.app/about
+https://guyavni-therapist.co.il/about
 גיא אבני הוא פסיכותרפיסט דינאמי עם ניסיון עשיר בטיפול ובהוראה. גלו את הדרך המקצועית, הגישה הטיפולית הייחודית, והחזון שמניע כל מפגש ומרצה.
 
 ### צור קשר
-https://guyavnipsychotherapistdynamic.zappy5.app/contact
+https://guyavni-therapist.co.il/contact
 רוצים לקבוע פגישת היכרות עם מטפל רגשי מוביל או להזמין הרצאה מקצועית? צרו קשר עם גיא אבני עוד היום ותנו לתהליך הטיפולי להתחיל בצעד אחד פשוט.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://guyavnipsychotherapistdynamic.zappy5.app/privacy
+https://guyavni-therapist.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://guyavnipsychotherapistdynamic.zappy5.app/terms
+https://guyavni-therapist.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://guyavnipsychotherapistdynamic.zappy5.app/accessibility
+https://guyavni-therapist.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,5 +43,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://guyavnipsychotherapistdynamic.zappy5.app/sitemap.xml
-- **Robots.txt**: https://guyavnipsychotherapistdynamic.zappy5.app/robots.txt
+- **Sitemap**: https://guyavni-therapist.co.il/sitemap.xml
+- **Robots.txt**: https://guyavni-therapist.co.il/robots.txt
