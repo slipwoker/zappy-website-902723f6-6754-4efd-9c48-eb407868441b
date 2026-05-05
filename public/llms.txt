@@ -10,10 +10,6 @@
 https://guyavni-therapist.co.il
 גיא אבני מציע פסיכותרפיה דינאמית למתבגרים ומבוגרים, המשלבת עומק טיפולי עם ידע אקדמי מתקדם. גלו כיצד טיפול רגשי מקצועי יכול לפתוח דלתות חדשות בחייכם.
 
-### טיפול והרצאות
-https://guyavni-therapist.co.il/therapy-lectures
-מחפשים מטפל רגשי מנוסה או הרצאות מרתקות על פסיכיאטריה ובריאות הנפש? גיא אבני מביא ידע קליני ועומק אנושי לכל במה וכל חדר טיפולים. הצטרפו עכשיו.
-
 ### חשיבה חיובית
 https://guyavni-therapist.co.il/positive-thinking
 גיא אבני הוא פסיכותרפיסט דינאמי עם ניסיון עשיר בטיפול ובהוראה. גלו את הדרך המקצועית, הגישה הטיפולית הייחודית, והחזון שמניע כל מפגש ומרצה.
@@ -51,7 +47,7 @@ Information about WCAG compliance and accessibility features.
   - `name` (text, required)
   - `email` (email, required)
   - `phone` (tel)
-  - `message` (textarea, required)
+  - `message` (textarea)
   - `privacy_consent` (checkbox, required)
 
 ---
