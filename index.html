@@ -223,6 +223,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="פסיכותרפיה שמשנה חיים — גיא אבני פסיכותרפיסט דינאמי">
     <meta name="twitter:description" content="גיא אבני מציע פסיכותרפיה דינאמית למתבגרים ומבוגרים, המשלבת עומק טיפולי עם ידע אקדמי מתקדם. גלו כיצד טיפול רגשי מקצועי יכול לפתוח דלתות חדשות בחייכם.">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://guyavni-therapist.co.il#organization","name":"גיא אבני פסיכותרפיסט דינאמי","url":"https://guyavni-therapist.co.il","description":"A dynamic psychotherapist and lecturer who combines therapeutic practice with public speaking and education. The brand likely bridges the clinical and academic worlds, offering both personal therapy services and professional lectures or workshops in the field of psychology and mental health."},{"@type":"WebSite","@id":"https://guyavni-therapist.co.il#website","url":"https://guyavni-therapist.co.il","name":"גיא אבני פסיכותרפיסט דינאמי","publisher":{"@id":"https://guyavni-therapist.co.il#organization"}}]}</script>
     <meta property="og:type" content="website">
   <meta property="og:locale" content="he_IL">
   
@@ -298,11 +299,37 @@
     </style>
 
     <style id="zappy-widget-visibility">
-      #mic-access-tool-general-button, .mic-access-tool-general-button,
-      #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-      ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
-      #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
-        display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+      html[dir="rtl"] .whatsapp-float { right: 20px !important; left: auto !important; }
+      html[dir="ltr"] .whatsapp-float, html:not([dir]) .whatsapp-float { left: 20px !important; right: auto !important; }
+      html[dir="rtl"] #mic-access-tool-general-button, html[dir="rtl"] .mic-access-tool-general-button,
+      html[dir="rtl"] #mic-init-access-tool .mic-access-tool-general-button,
+      html[dir="rtl"] #mic-init-access-tool #mic-access-tool-general-button,
+      html[dir="rtl"] ._access-icon { left: 20px !important; right: auto !important; }
+      html[dir="ltr"] #mic-access-tool-general-button, html[dir="ltr"] .mic-access-tool-general-button,
+      html[dir="ltr"] #mic-init-access-tool .mic-access-tool-general-button,
+      html[dir="ltr"] #mic-init-access-tool #mic-access-tool-general-button,
+      html[dir="ltr"] ._access-icon,
+      html:not([dir]) #mic-access-tool-general-button, html:not([dir]) .mic-access-tool-general-button,
+      html:not([dir]) #mic-init-access-tool .mic-access-tool-general-button,
+      html:not([dir]) #mic-init-access-tool #mic-access-tool-general-button,
+      html:not([dir]) ._access-icon { right: 20px !important; left: auto !important; }
+      @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
+      @media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
+      @media (max-width: 768px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        }
+      }
+      @media (min-width: 769px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        }
       }
     </style>
 </head>
@@ -768,14 +795,14 @@
 </script>
   
   <main>
-    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section">
+    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" data-zappy-bg-type="image" data-zappy-bg-color="" data-zappy-bg-image="assets/site-index-hero-image-1-1777825613457-avbuio.webp?v=1777825613457" data-zappy-bg-overlay-color="#1e1b2e" data-zappy-bg-overlay-opacity="32" data-zappy-bg-video-type="" data-zappy-bg-video-url="">
   <!-- Background Image -->
   <div class="index-hero-bg-wrap">
     <img data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Abstract topographic contour map texture blended with a moody atmospheric interior — warm amber candlelight on dark plum walls, layered paper-like geological strata, rich deep purples and earthy creams, evoking psychological depth, inner landscape, contemplative silence. Suitable for a psychotherapist and lecturer website. No people, no faces. Cinematic editorial mood, fine grain texture." width="1200" height="700" src="/assets/site-index-hero-image-1-1777825613457-avbuio.webp?v=1777825613457" alt="רקע טקסטורה טופוגרפית אטמוספרית המייצגת עומק פסיכולוגי" class="index-hero-bg-img" data-hero-background="true" data-element-type="image" data-element-id="img-1777533840120-dzxmphwj0">
   </div>
 
   <!-- Dark gradient scrim -->
-  <div class="index-hero-scrim" aria-hidden="true"></div>
+  <div class="index-hero-scrim" aria-hidden="true" style="opacity: 0.3404255319148936"></div>
 
   <!-- Topographic decorative motif -->
   <div class="index-hero-topo-motif" aria-hidden="true">

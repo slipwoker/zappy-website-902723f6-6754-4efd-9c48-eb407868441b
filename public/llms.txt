@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# גיא אבני פסיכותרפיסט דינאמי — Generative Engine Optimization Map
+
+> A dynamic psychotherapist and lecturer who combines therapeutic practice with public speaking and education. The brand likely bridges the clinical and academic worlds, offering both personal therapy services and professional lectures or workshops in the field of psychology and mental health.
 
 ---
 
@@ -36,12 +38,45 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## How to Contact Us
 
-## About Business
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://guyavni-therapist.co.il/contact
+- Endpoint: https://guyavni-therapist.co.il/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://guyavni-therapist.co.il/sitemap.xml
-- **Robots.txt**: https://guyavni-therapist.co.il/robots.txt
+## About גיא אבני פסיכותרפיסט דינאמי
+A dynamic psychotherapist and lecturer who combines therapeutic practice with public speaking and education. The brand likely bridges the clinical and academic worlds, offering both personal therapy services and professional lectures or workshops in the field of psychology and mental health.
+
+## Services/Products
+- פסיכותרפיה דינאמית
+- הרצאות
+
+## Target Audience
+- הורים למתבגרים
+- אנשים במעבר אישי
+- אנשים אשר חווים תקיעות, משברים
+
+## Industry
+בריאות נפשית וחינוך
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://guyavni-therapist.co.il/sitemap.xml
+- Robots: https://guyavni-therapist.co.il/robots.txt
+- Flattened page text (for LLMs): https://guyavni-therapist.co.il/llms-full.txt
