@@ -43,6 +43,7 @@ Information about WCAG compliance and accessibility features.
 - Email: guy.avni2@gmail.com
 - Phone: 0544541387
 - Phone (tel): tel:0544541387
+- Address: רחוב תמר 14 רקפת , טשרניחובסקי 26 - תל אביב
 
 ### Contact form
 - URL: https://guyavni-therapist.co.il/contact
