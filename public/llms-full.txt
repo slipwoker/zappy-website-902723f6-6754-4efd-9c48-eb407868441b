@@ -329,9 +329,9 @@ Description: גיא אבני מציע פסיכותרפיה דינאמית למת
 
 
 
-- [business_email]
+- guy.avni2@gmail.com
 
-- [business_phone]
+- 0544541387
 
 - [business_address]
 
@@ -766,9 +766,9 @@ Description: גיא אבני הוא פסיכותרפיסט דינאמי עם נ�
 
 
 
-- [business_email]
+- guy.avni2@gmail.com
 
-- [business_phone]
+- 0544541387
 
 - [business_address]
 
@@ -890,9 +890,9 @@ Description: רוצים לקבוע פגישת היכרות עם מטפל רגש�
 ניתן לפנות אלי בנושאים הבאים: טיפול פסיכותרפי, הרצאות ומרצים, וסדנאות מקצועיות.
 
 
-- טלפון [business_phone]
+- טלפון 0544541387
 
-- דוא"ל [business_email]
+- דוא"ל guy.avni2@gmail.com
 
 - מיקום [business_address]
 
@@ -1213,9 +1213,9 @@ Description: רוצים לקבוע פגישת היכרות עם מטפל רגש�
 
 
 
-- [business_email]
+- guy.avni2@gmail.com
 
-- [business_phone]
+- 0544541387
 
 - [business_address]
 
@@ -1283,7 +1283,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-גיא אבני פסיכותרפיסט דינאמי ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר [business_website] ("השירות").
+גיא אבני פסיכותרפיסט דינאמי ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר https://guyavni-therapist.co.il ("השירות").
 
 
 ## 1. איסוף מידע
@@ -1381,9 +1381,9 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: גיא אבני פסיכותרפיסט דינאמי
 
-- אימייל: [business_email]
+- אימייל: guy.avni2@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0544541387
 
 - כתובת: [business_address]
 
@@ -1439,9 +1439,9 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-- [business_email]
+- guy.avni2@gmail.com
 
-- [business_phone]
+- 0544541387
 
 - [business_address]
 
@@ -1635,9 +1635,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: גיא אבני פסיכותרפיסט דינאמי
 
-- אימייל: [business_email]
+- אימייל: guy.avni2@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0544541387
 
 
 
@@ -1694,9 +1694,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 
-- [business_email]
+- guy.avni2@gmail.com
 
-- [business_phone]
+- 0544541387
 
 - [business_address]
 
@@ -1913,9 +1913,9 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: גיא אבני פסיכותרפיסט דינאמי
 
-- אימייל: [business_email]
+- אימייל: guy.avni2@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0544541387
 
 - כתובת: [business_address]
 
@@ -1968,9 +1968,9 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 
-- [business_email]
+- guy.avni2@gmail.com
 
-- [business_phone]
+- 0544541387
 
 - [business_address]
 
@@ -2260,9 +2260,9 @@ Description: גיא אבני פסיכותרפיסט דינאמי - תוצאות 
 
 
 
-- [business_email]
+- guy.avni2@gmail.com
 
-- [business_phone]
+- 0544541387
 
 - [business_address]
 

@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: guy.avni2@gmail.com
+- Phone: 0544541387
+- Phone (tel): tel:0544541387
 
 ### Contact form
 - URL: https://guyavni-therapist.co.il/contact
