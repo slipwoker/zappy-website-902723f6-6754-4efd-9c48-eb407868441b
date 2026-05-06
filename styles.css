@@ -9404,246 +9404,306 @@ html body .site-footer .zappy-attribution {
 }
 
 /* AI-generated section */
-/* ===========================
-   RICH CONTENT SECTION
-   =========================== */
+/* =====================================================
+   PRINCIPLES ARTICLE SECTION
+   11 עקרונות לחשיבה חיובית
+   ===================================================== */
 
-.rich-content-section {
+.principles-article-section {
   background-color: var(--background-color, #F4F7F4);
-  padding: 80px 20px;
+  padding: 90px 24px 80px;
   font-family: system-ui, sans-serif;
   direction: rtl;
   text-align: right;
 }
 
-.rich-content-container {
-  max-width: 900px;
+/* Container */
+.principles-container {
+  max-width: 860px;
   margin: 0 auto;
 }
 
-/* --- Header --- */
-.rich-content-header {
+/* ---- Header ---- */
+.principles-header {
   text-align: center;
   margin-bottom: 60px;
 }
 
-.rich-content-title {
-  font-size: 2.6rem;
+.principles-label {
+  display: inline-block;
+  background-color: var(--accent-color, #C4956A);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 6px 18px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.principles-main-title {
+  font-size: clamp(1.9rem, 4vw, 2.8rem);
   font-weight: 800;
   color: var(--text-color, #1A2E26);
-  margin: 0 0 16px 0;
-  line-height: 1.2;
-  letter-spacing: -0.5px;
-  position: relative;
-  display: inline-block;
+  line-height: 1.3;
+  margin: 0 0 14px;
 }
 
-.rich-content-title::after {
-  content: '';
-  display: block;
-  width: 70px;
-  height: 4px;
-  background: var(--primary-color, #3D7A6A);
-  border-radius: 2px;
-  margin: 14px auto 0 auto;
-}
-
-.rich-content-subtitle {
-  font-size: 1.1rem;
+.principles-subtitle {
+  font-size: 1.05rem;
   color: var(--text-secondary-color, #3D7A6A);
-  margin: 0;
   line-height: 1.7;
-  max-width: 620px;
-  margin-inline: auto;
-  opacity: 0.9;
+  margin: 0 auto 30px;
+  max-width: 560px;
 }
 
-/* --- Articles Container --- */
-.rich-content-articles {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
+.principles-header-divider {
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--accent-color, #C4956A), var(--primary-color, #3D7A6A));
+  border-radius: 4px;
+  margin: 0 auto;
 }
 
-/* --- Individual Article Item --- */
-.rich-content-item {
+/* ---- List Reset ---- */
+.principles-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ---- Each Block ---- */
+.principles-block {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.principles-block-inner {
   display: flex;
   align-items: flex-start;
-  gap: 0;
-  background-color: #ffffff;
-  border-radius: 12px;
-  border: 1px solid rgba(61, 122, 106, 0.18);
-  border-right: 5px solid var(--primary-color, #3D7A6A);
-  box-shadow: 0 2px 12px rgba(61, 122, 106, 0.07);
-  padding: 32px 32px 32px 28px;
-  transition: box-shadow 0.3s ease, transform 0.25s ease, border-right-color 0.25s ease;
-  position: relative;
-  overflow: hidden;
+  gap: 28px;
+  padding: 38px 30px 38px 30px;
+  background-color: #fff;
+  border-radius: 14px;
+  border-right: 4px solid var(--accent-color, #C4956A);
+  box-shadow: 0 2px 14px rgba(61, 122, 106, 0.07);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  margin-bottom: 6px;
 }
 
-.rich-content-item::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(135deg, rgba(61,122,106,0.03) 0%, transparent 60%);
-  pointer-events: none;
-  border-radius: 12px;
-}
-
-.rich-content-item:hover {
-  box-shadow: 0 6px 28px rgba(61, 122, 106, 0.14);
+.principles-block-inner:hover {
+  box-shadow: 0 6px 28px rgba(61, 122, 106, 0.13);
   transform: translateY(-2px);
-  border-right-color: var(--accent-color, #C4956A);
 }
 
-/* --- Number Badge --- */
-.rich-content-number {
+/* ---- Number ---- */
+.principles-number {
   flex-shrink: 0;
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  background: var(--primary-color, #3D7A6A);
-  color: #ffffff;
-  font-size: 1.05rem;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-left: 22px;
-  margin-top: 2px;
-  box-shadow: 0 2px 8px rgba(61, 122, 106, 0.3);
-  transition: background 0.25s ease, transform 0.25s ease;
+  font-size: 2.4rem;
+  font-weight: 900;
+  color: var(--surface-color, #E8F0E8);
   line-height: 1;
+  min-width: 58px;
+  text-align: center;
+  letter-spacing: -0.03em;
+  user-select: none;
+  padding-top: 4px;
+  background: linear-gradient(135deg, var(--primary-color, #3D7A6A) 0%, var(--accent-color, #C4956A) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
-.rich-content-item:hover .rich-content-number {
-  background: var(--accent-color, #C4956A);
-  transform: scale(1.08);
-}
-
-/* --- Article Body --- */
-.rich-content-body {
+/* ---- Content ---- */
+.principles-content {
   flex: 1;
   min-width: 0;
 }
 
-/* --- Article Title --- */
-.rich-content-item-title {
-  font-size: 1.22rem;
+.principles-block-title {
+  font-size: 1.18rem;
   font-weight: 700;
-  color: var(--text-color, #1A2E26);
-  margin: 0 0 14px 0;
+  color: var(--primary-color, #3D7A6A);
+  margin: 0 0 14px;
   line-height: 1.4;
-  letter-spacing: -0.2px;
 }
 
-/* --- Article Text --- */
-.rich-content-text {
-  font-size: 1rem;
-  color: #2e4a3e;
-  line-height: 1.85;
+.principles-body {
+  font-size: 1.05rem;
+  color: var(--text-color, #1A2E26);
+  line-height: 1.9;
   margin: 0;
-  text-align: right;
-  word-break: break-word;
 }
 
-/* ===========================
+/* ---- Separator ---- */
+.principles-separator {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--surface-color, #E8F0E8) 20%, var(--surface-color, #E8F0E8) 80%, transparent);
+  margin: 0 0 20px;
+}
+
+/* ---- Last block (no separator) ---- */
+.principles-block--last .principles-block-inner {
+  margin-bottom: 0;
+}
+
+/* ---- Footer CTA ---- */
+.principles-footer {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.principles-footer-inner {
+  background: linear-gradient(135deg, var(--primary-color, #3D7A6A) 0%, #2a5a4c 100%);
+  border-radius: 18px;
+  padding: 44px 36px;
+  box-shadow: 0 8px 32px rgba(61, 122, 106, 0.22);
+}
+
+.principles-footer-text {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.92);
+  line-height: 1.7;
+  margin: 0 0 26px;
+}
+
+.principles-cta-btn {
+  display: inline-block;
+  background-color: var(--accent-color, #C4956A);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 14px 36px;
+  border-radius: 50px;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 16px rgba(196, 149, 106, 0.35);
+  letter-spacing: 0.02em;
+}
+
+.principles-cta-btn:hover,
+.principles-cta-btn:focus {
+  background-color: #b07f55;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(196, 149, 106, 0.45);
+  outline: none;
+}
+
+.principles-cta-btn:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+}
+
+/* =====================================================
    RESPONSIVE — TABLET
-   =========================== */
+   ===================================================== */
 @media (max-width: 768px) {
-  .rich-content-section {
-    padding: 56px 16px;
+  .principles-article-section {
+    padding: 60px 16px 60px;
   }
 
-  .rich-content-title {
-    font-size: 2rem;
+  .principles-block-inner {
+    flex-direction: column;
+    gap: 14px;
+    padding: 28px 22px;
+    border-right: 4px solid var(--accent-color, #C4956A);
+    border-radius: 12px;
   }
 
-  .rich-content-subtitle {
+  .principles-number {
+    font-size: 1.8rem;
+    min-width: auto;
+    text-align: right;
+  }
+
+  .principles-block-title {
+    font-size: 1.08rem;
+  }
+
+  .principles-body {
+    font-size: 1rem;
+    line-height: 1.85;
+  }
+
+  .principles-footer-inner {
+    padding: 32px 22px;
+    border-radius: 14px;
+  }
+
+  .principles-footer-text {
     font-size: 1rem;
   }
 
-  .rich-content-item {
-    padding: 24px 20px 24px 18px;
-    border-right-width: 4px;
-  }
-
-  .rich-content-number {
-    width: 38px;
-    height: 38px;
+  .principles-cta-btn {
     font-size: 0.95rem;
-    margin-left: 16px;
-  }
-
-  .rich-content-item-title {
-    font-size: 1.1rem;
-  }
-
-  .rich-content-text {
-    font-size: 0.97rem;
-    line-height: 1.78;
-  }
-
-  .rich-content-articles {
-    gap: 18px;
+    padding: 13px 28px;
   }
 }
 
-/* ===========================
+/* =====================================================
    RESPONSIVE — MOBILE
-   =========================== */
+   ===================================================== */
 @media (max-width: 480px) {
-  .rich-content-section {
-    padding: 40px 12px;
-  }
-
-  .rich-content-header {
-    margin-bottom: 40px;
-  }
-
-  .rich-content-title {
+  .principles-main-title {
     font-size: 1.65rem;
   }
 
-  .rich-content-item {
-    flex-direction: column;
-    padding: 20px 16px;
-    border-right-width: 4px;
-    gap: 12px;
+  .principles-subtitle {
+    font-size: 0.97rem;
   }
 
-  .rich-content-number {
-    width: 36px;
-    height: 36px;
-    font-size: 0.9rem;
-    margin-left: 0;
-    margin-bottom: 4px;
+  .principles-block-inner {
+    padding: 22px 18px;
   }
 
-  .rich-content-item-title {
-    font-size: 1.05rem;
+  .principles-number {
+    font-size: 1.55rem;
+  }
+
+  .principles-block-title {
+    font-size: 1rem;
     margin-bottom: 10px;
   }
 
-  .rich-content-text {
-    font-size: 0.95rem;
-    line-height: 1.75;
+  .principles-body {
+    font-size: 0.97rem;
+    line-height: 1.8;
   }
 
-  .rich-content-articles {
-    gap: 14px;
+  .principles-footer {
+    margin-top: 44px;
+  }
+
+  .principles-footer-inner {
+    padding: 26px 18px;
+  }
+
+  .principles-cta-btn {
+    width: 100%;
+    text-align: center;
+    padding: 14px 20px;
   }
 }
 
-/* ===========================
-   FOCUS / ACCESSIBILITY
-   =========================== */
-.rich-content-item:focus-within {
-  outline: 2px solid var(--primary-color, #3D7A6A);
-  outline-offset: 3px;
+/* =====================================================
+   PRINT
+   ===================================================== */
+@media print {
+  .principles-article-section {
+    background: #fff;
+    padding: 20px 0;
+  }
+
+  .principles-block-inner {
+    box-shadow: none;
+    border: 1px solid #ddd;
+    break-inside: avoid;
+  }
+
+  .principles-footer {
+    display: none;
+  }
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
