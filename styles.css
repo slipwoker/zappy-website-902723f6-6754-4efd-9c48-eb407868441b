@@ -9328,6 +9328,80 @@ html body .site-footer .zappy-attribution {
     line-height: 1.8;
   }
 }
+
+.testi-section .testi-grid {
+  display: grid !important;
+  grid-template-columns: 1fr !important;
+  gap: 32px !important;
+  max-width: 900px !important;
+  margin-inline: auto !important;
+}
+
+.testi-section .testi-card {
+  display: flex !important;
+  flex-direction: column !important;
+  padding: 40px 48px !important;
+  background: #FFFFFF !important;
+  border: 1px solid var(--border-light) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 4px 24px rgba(30,27,46,0.08) !important;
+}
+
+.testi-section .testi-text {
+  font-size: 1rem !important;
+  line-height: 1.85 !important;
+  color: var(--text-dark) !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  max-width: 100% !important;
+  white-space: normal !important;
+  word-break: break-word !important;
+  overflow-wrap: break-word !important;
+}
+
+.testi-section .testi-text p {
+  font-size: 1rem !important;
+  line-height: 1.85 !important;
+  color: var(--text-dark) !important;
+  margin: 0 0 16px !important;
+}
+
+.testi-section .testi-card .zappy-inserted-element h2,
+.testi-section .testi-card .font-bold {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  line-height: 1.85 !important;
+  color: var(--text-dark) !important;
+  letter-spacing: 0 !important;
+  font-family: 'Assistant', 'Inter', sans-serif !important;
+}
+
+.testi-section .testi-card .testi-card-title {
+  font-size: 1.1rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 12px !important;
+}
+
+.testi-section .testi-footer {
+  margin-top: 24px !important;
+  padding-top: 16px !important;
+  border-top: 1px solid var(--border-light) !important;
+  display: flex !important;
+  gap: 12px !important;
+  align-items: center !important;
+}
+
+.testi-section .testi-name {
+  font-weight: 700 !important;
+  color: var(--accent) !important;
+  font-size: 0.9rem !important;
+}
+
+.testi-section .testi-role {
+  color: var(--text-muted) !important;
+  font-size: 0.85rem !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
