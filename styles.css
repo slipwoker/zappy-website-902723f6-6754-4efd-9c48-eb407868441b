@@ -8693,6 +8693,33 @@ html body .site-footer .zappy-attribution {
   background-color: #1E3D32 !important;
   background-image: radial-gradient(ellipse at 80% 20%, rgba(216,164,75,0.08) 0%, transparent 55%), radial-gradient(ellipse at 10% 80%, rgba(61,122,106,0.18) 0%, transparent 50%), linear-gradient(160deg, #2a5244 0%, #1E3D32 55%, #162d25 100%) !important;
 }
+
+.results-that-speak-gallery-section .gallery-figure {
+  aspect-ratio: 3 / 4 !important;
+  background: #FFFFFF !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 20px !important;
+}
+
+.results-that-speak-gallery-section .gallery-figure img,
+.results-that-speak-gallery-section .gallery-figure [data-element-id] img {
+  object-fit: contain !important;
+  object-position: center !important;
+  background: #FFFFFF !important;
+}
+
+.results-that-speak-gallery-section .gallery-card {
+  background: #FFFFFF !important;
+  border: 1px solid rgba(61, 122, 106, 0.25) !important;
+  box-shadow: 0 6px 32px rgba(30, 27, 46, 0.10) !important;
+}
+
+.results-that-speak-gallery-section .gallery-card:hover {
+  box-shadow: 0 16px 48px rgba(30, 27, 46, 0.16) !important;
+  border-color: rgba(196, 149, 106, 0.45) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
