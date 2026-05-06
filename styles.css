@@ -8677,6 +8677,22 @@ html body .site-footer .zappy-attribution {
     font-size: 0.92rem;
   }
 }
+
+.results-that-speak-hero-section {
+  background-color: #1E3D32 !important;
+  background-image: radial-gradient(ellipse at 80% 20%, rgba(61,122,106,0.45) 0%, transparent 55%), radial-gradient(ellipse at 20% 80%, rgba(30,61,50,0.35) 0%, transparent 50%), linear-gradient(180deg, #1E1B2E 0%, #1E3D32 50%, var(--primary-color) 100%) !important;
+}
+
+@media (max-width: 768px) {
+.results-that-speak-hero-section {
+  background-image: radial-gradient(ellipse at 60% 20%, rgba(61,122,106,0.5) 0%, transparent 60%), linear-gradient(180deg, #1E1B2E 0%, #1E3D32 55%, var(--primary-color) 100%) !important;
+}
+}
+
+.results-that-speak-testimonials-section {
+  background-color: #1E3D32 !important;
+  background-image: radial-gradient(ellipse at 80% 20%, rgba(216,164,75,0.08) 0%, transparent 55%), radial-gradient(ellipse at 10% 80%, rgba(61,122,106,0.18) 0%, transparent 50%), linear-gradient(160deg, #2a5244 0%, #1E3D32 55%, #162d25 100%) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
