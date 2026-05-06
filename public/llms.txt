@@ -18,6 +18,10 @@ https://guyavni-therapist.co.il/positive-thinking
 https://guyavni-therapist.co.il/contact
 רוצים לקבוע פגישת היכרות עם מטפל רגשי מוביל או להזמין הרצאה מקצועית? צרו קשר עם גיא אבני עוד היום ותנו לתהליך הטיפולי להתחיל בצעד אחד פשוט.
 
+### תוצאות שמדברות
+https://guyavni-therapist.co.il/results-that-speak
+גיא אבני פסיכותרפיסט דינאמי - תוצאות שמדברות
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -47,7 +51,7 @@ Information about WCAG compliance and accessibility features.
   - `name` (text, required)
   - `email` (email, required)
   - `phone` (tel)
-  - `message` (textarea)
+  - `message` (textarea, required)
   - `privacy_consent` (checkbox, required)
 
 ---
